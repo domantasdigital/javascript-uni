@@ -6,7 +6,7 @@ const SuccessCard = () => {
           <h1 className="text-3xl text-center mb-5">UŽDUOTIS ĮVEIKTA!</h1>
         </div>
         <div className="max-w-[70vw] mb-10">
-          <h2 className="text-center text-3xl">Jūsų slaptasis kodas: 420</h2>
+          <h2 className="text-center text-3xl">Jūsų slaptasis kodas: 69</h2>
         </div>
       </div>
     </div>
